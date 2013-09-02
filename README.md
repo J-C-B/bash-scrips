@@ -1,8 +1,8 @@
-bash-scrips
-===========
+Bash-Scripts
+============
 
-A collection of the bash scripts I use, random but useful.
+A collection of the bash scripts I use, random but useful (to me).
 
-Feel free to use / edit
+Feel free to clone
 
 Cheers
