@@ -1,4 +1,8 @@
 bash-scrips
 ===========
 
-A ollection of the bash scripts i use
+A collection of the bash scripts I use, random but useful.
+
+Feel free to use / edit
+
+Cheers
